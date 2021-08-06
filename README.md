@@ -28,5 +28,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kid1z&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid1z&layout=compact)](https://github.com/ki1z/tinderrep11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid1z&layout=compact)](https://github.com/kid1z/tinderrep11)
 
