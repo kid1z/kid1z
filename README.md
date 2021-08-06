@@ -1,3 +1,9 @@
+# Hi 👋, I'm Hiep Tran
+### A passionate developer from VietNam
+
+- 🌱 I’m currently learning ** Ruby on Rails and React 😎**
+
+- 📫 Fun fact: **I'm single 😎**
 
 ![view counter](https://komarev.com/ghpvc/?username=ki1z&label=Profile%20views&color=0e75b6&style=flat-square)
 
@@ -20,6 +26,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kid1z&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kid1z&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kid1z&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki1z&layout=compact)](https://github.com/ki1z/tinderrep11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid1z&layout=compact)](https://github.com/ki1z/tinderrep11)
+
