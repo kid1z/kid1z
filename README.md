@@ -1,12 +1,3 @@
-# Hi there 👋
-#### 🔭 I’m currently working on KMA
-#### 🌱 I’m currently learning VUE,PHP
-#### 👯 I’m looking to collaborate on 
-#### 💬 Ask me about ...
-#### 📫 How to reach me: https://www.facebook.com/hiepga6719
-#### ⚡ Fun fact: I am noob
-
-
 
 ![view counter](https://komarev.com/ghpvc/?username=ki1z&label=Profile%20views&color=0e75b6&style=flat-square)
 
@@ -27,9 +18,8 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ki1z" alt="ki1z" /></a> </p>-->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=ki1z&show_icons=true&locale=en&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kid1z&show_icons=true&theme=radical)
 
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=ki1z&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kid1z&theme=cobalt)](https://git.io/streak-stats)
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=ki1z&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki1z&layout=compact)](https://github.com/ki1z/tinderrep11)
