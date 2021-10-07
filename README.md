@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hiep Tran
 ### A passionate developer from VietNam
 
-- 🌱 I’m currently learning ** Ruby on Rails and React 😎**
+- 🌱 I’m currently learning **Ruby on Rails and React 😎**
 
 - 📫 Fun fact: **I'm single 😎**
 
