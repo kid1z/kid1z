@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails and React 😎**
 
-- 📫 Fun fact: **I'm single 😎**
+- 📫 Fun fact: **I'm not single 😎**
 
 ![view counter](https://komarev.com/ghpvc/?username=ki1z&label=Profile%20views&color=0e75b6&style=flat-square)
 
